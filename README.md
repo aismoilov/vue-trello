@@ -1,24 +1,11 @@
-# trello-app
+# Прототип Trello на Vue JS.
 
-## Project setup
-```
-npm install
-```
+![trello](https://user-images.githubusercontent.com/66421016/120815999-c9094d00-c569-11eb-80f1-52bd10c3f145.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+В проекте использовались:
+  - Tailwind CSS
+  - Vuex
+  - Vue JS
+  - Drag & Drop API
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![trello-preview](https://user-images.githubusercontent.com/66421016/120816846-9449c580-c56a-11eb-847a-f3dae133f37b.png)
